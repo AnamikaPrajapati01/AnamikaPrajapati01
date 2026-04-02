@@ -1,9 +1,8 @@
 # 💫 About Me: Full Stack Developer
 🌱 Code. Build. Learn. Repeat.  
-👯 Let’s create cool apps, and Websites
+👯 Let’s create cool apps & Websites  
 🤝 Always improving backend skills  
 ⚡ Turning ideas into reality 🚀
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anamika-prajapati-989007321/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subiprajapati5@gmail.com) 
