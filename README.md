@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 💫 About Me: Full Stack Developer
 🌱 Code. Build. Learn. Repeat.  
-👯 Let’s create cool apps & IoT projects  
+👯 Let’s create cool apps, and Websites
 🤝 Always improving backend skills  
 ⚡ Turning ideas into reality 🚀
 
