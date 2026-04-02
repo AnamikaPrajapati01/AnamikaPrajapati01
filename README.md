@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hello! I'm Anamika 👋.<br>An enthusiastic IT student passionate about developing innovative solutions using software and IoT technologies.
+🌱 Code. Build. Learn. Repeat.  
+👯 Let’s create cool apps & IoT projects  
+🤝 Always improving backend skills  
+⚡ Turning ideas into reality 🚀
 
 
 ## 🌐 Socials:
