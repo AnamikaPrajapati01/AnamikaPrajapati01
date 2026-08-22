@@ -40,19 +40,7 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnamikaPrajapati01&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-## 🏆 GitHub Trophies
-## 🏆 GitHub Trophies
 
-<p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" style="display:inline-block; margin:2px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=AnamikaPrajapati01&theme=tokyonight&row=1&column=5"
-            alt="GitHub Trophies" style="border-radius: 12px;" />
-    </a>
-</p>
-<p>
-    <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnamikaPrajapati01&theme=tokyonight" />
-</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
