@@ -41,7 +41,18 @@
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AnamikaPrajapati01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Trophies
+
+<p>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" style="display:inline-block; margin:2px;">
+        <img src="https://github-profile-trophy.vercel.app/?username=AnamikaPrajapati01&theme=tokyonight&row=1&column=5"
+            alt="GitHub Trophies" style="border-radius: 12px;" />
+    </a>
+</p>
+<p>
+    <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnamikaPrajapati01&theme=tokyonight" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
